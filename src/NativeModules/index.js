@@ -2,6 +2,7 @@
 const NativeModules = {
   Timing: require('./Timing'),
   UIManager: require('./UIManager'),
+  SettingsManager: require('./SettingsManager'),
   AsyncLocalStorage: require('../api/AsyncStorage'),
   SourceCode: require('./SourceCode'),
   AlertManager: require('./AlertManager'),
